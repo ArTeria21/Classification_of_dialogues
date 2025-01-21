@@ -1,0 +1,2820 @@
+- history:
+    - content: привет, добавь мне сок яблочный 1 л
+      role: user
+  inquire_product: false
+  messages_uuid: a2a5bb5b-8059-5403-95fa-02fee21b33ea
+- history:
+    - content: привет, добавь мне сок яблочный 1 л
+      role: user
+    - content: RIOBA Сок яблочный, 1л за 80 рублей добавляю в корзину
+      role: assistant
+    - content: ещё добавь твикс батончик
+      role: user
+  inquire_product: false
+  messages_uuid: ee598234-9540-5910-b211-d4d1f3abf399
+- history:
+    - content: привет, добавь мне сок яблочный 1 л
+      role: user
+    - content: RIOBA Сок яблочный, 1л за 80 рублей добавляю в корзину
+      role: assistant
+    - content: ещё добавь твикс батончик
+      role: user
+    - content: Батончик Twix шоколадный, 55г x 40 шт за 1876 рублей добавлен.
+      role: assistant
+    - content: добавь салфетки влажные любые
+      role: user
+    - content: Салфетки влажные Aura Family, 63шт за 109 рублей добавлены.
+      role: assistant
+    - content: добавь стиральный порошок ушастый нянь подешевле
+      role: user
+  inquire_product: false
+  messages_uuid: 670dbe52-c0fa-596a-ad3b-1c8d34928092
+- history:
+    - content: привет, добавь мне сок яблочный 1 л
+      role: user
+    - content: RIOBA Сок яблочный, 1л за 80 рублей добавляю в корзину
+      role: assistant
+    - content: ещё добавь твикс батончик
+      role: user
+    - content: Батончик Twix шоколадный, 55г x 40 шт за 1876 рублей добавлен.
+      role: assistant
+    - content: добавь салфетки влажные любые
+      role: user
+    - content: Салфетки влажные Aura Family, 63шт за 109 рублей добавлены.
+      role: assistant
+    - content: добавь стиральный порошок ушастый нянь подешевле
+      role: user
+    - content: Стиральный порошок Ушастый нянь для детского белья, 400г за 80 рублей
+        добавлен.
+      role: assistant
+    - content: добавь укроп
+      role: user
+  inquire_product: false
+  messages_uuid: 12c51355-aec9-5f3f-b4a1-4ddf1521bc06
+- history:
+    - content: привет, добавь мне сок яблочный 1 л
+      role: user
+    - content: RIOBA Сок яблочный, 1л за 80 рублей добавляю в корзину
+      role: assistant
+    - content: ещё добавь твикс батончик
+      role: user
+    - content: Батончик Twix шоколадный, 55г x 40 шт за 1876 рублей добавлен.
+      role: assistant
+    - content: добавь салфетки влажные любые
+      role: user
+    - content: Салфетки влажные Aura Family, 63шт за 109 рублей добавлены.
+      role: assistant
+    - content: добавь стиральный порошок ушастый нянь подешевле
+      role: user
+    - content: Стиральный порошок Ушастый нянь для детского белья, 400г за 80 рублей
+        добавлен.
+      role: assistant
+    - content: добавь укроп
+      role: user
+    - content: METRO Chef Укроп, 70г за 60 рублей добавлен.
+      role: assistant
+    - content: перечисли всё что сейчас в корзине
+      role: user
+  inquire_product: false
+  messages_uuid: 698af12b-034c-521b-97d9-1d5be45bd394
+- history:
+    - content: 'закажи сковородку 26 см '
+      role: user
+  inquire_product: false
+  messages_uuid: e45a8866-2183-5691-8628-77a19f8732b9
+- history:
+    - content: 'закажи сковородку 26 см '
+      role: user
+    - content: METRO PROFESSIONAL Сковорода, 26 см за 2299 рублей. Добавить в корзину?
+      role: assistant
+    - content: да, она уже с крышкой идёт?
+      role: user
+    - content: Нет, сковорода без крышки. Вам нужна с крышкой?
+      role: assistant
+    - content: да с крышкой или тогда добавь крышку отдельно
+      role: user
+  inquire_product: false
+  messages_uuid: d55f8b83-c7fe-5b1f-bcc4-a56fdee79613
+- history:
+    - content: 'закажи сковородку 26 см '
+      role: user
+    - content: METRO PROFESSIONAL Сковорода, 26 см за 2299 рублей. Добавить в корзину?
+      role: assistant
+    - content: да, она уже с крышкой идёт?
+      role: user
+    - content: Нет, сковорода без крышки. Вам нужна с крышкой?
+      role: assistant
+    - content: да с крышкой или тогда добавь крышку отдельно
+      role: user
+    - content: 'Добавлю крышку отдельно. Выберите одну из этих:
+
+
+        1. Tarrington House стеклянная с ободом, 26 см, 219 рублей.
+
+        2. Tarrington House Vgp стеклянная, 26 см, 389 рублей.
+
+
+        Какую добавить?'
+      role: assistant
+    - content: оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 712c272c-a49a-5f95-ab57-2efb8999507c
+- history:
+    - content: 'закажи сковородку 26 см '
+      role: user
+    - content: METRO PROFESSIONAL Сковорода, 26 см за 2299 рублей. Добавить в корзину?
+      role: assistant
+    - content: да, она уже с крышкой идёт?
+      role: user
+    - content: Нет, сковорода без крышки. Вам нужна с крышкой?
+      role: assistant
+    - content: да с крышкой или тогда добавь крышку отдельно
+      role: user
+    - content: 'Добавлю крышку отдельно. Выберите одну из этих:
+
+
+        1. Tarrington House стеклянная с ободом, 26 см, 219 рублей.
+
+        2. Tarrington House Vgp стеклянная, 26 см, 389 рублей.
+
+
+        Какую добавить?'
+      role: assistant
+    - content: оформи заказ
+      role: user
+    - content: Добавляю Tarrington House стеклянная с ободом, 26 см за 219 рублей.
+        Подтвердите заказ?
+      role: assistant
+    - content: да подтверждаю оформляй
+      role: user
+  inquire_product: false
+  messages_uuid: cc7e20cc-01a5-557c-9cf8-97d12a255eee
+- history:
+    - content: хочу заказать сухарики и пиво
+      role: user
+  inquire_product: false
+  messages_uuid: 2c768207-8a26-515e-8493-f9782455e7ff
+- history:
+    - content: хочу заказать сухарики и пиво
+      role: user
+    - content: Какой вкус сухариков вам интересен?
+      role: assistant
+    - content: что-то острое можно
+      role: user
+    - content: Сухарики Хрусteam багет индейка-горчичный соус, 100г за 70 рублей подойдут?
+      role: assistant
+    - content: 'да '
+      role: user
+  inquire_product: false
+  messages_uuid: e7da04c8-b069-5edc-977a-ab7f9297656a
+- history:
+    - content: хочу заказать сухарики и пиво
+      role: user
+    - content: Какой вкус сухариков вам интересен?
+      role: assistant
+    - content: что-то острое можно
+      role: user
+    - content: Сухарики Хрусteam багет индейка-горчичный соус, 100г за 70 рублей подойдут?
+      role: assistant
+    - content: 'да '
+      role: user
+    - content: Какое пиво предпочитаете — светлое, темное или безалкогольное?
+      role: assistant
+    - content: балтика светлое
+      role: user
+  inquire_product: false
+  messages_uuid: a061d202-f7b2-566d-a949-86e0a8fc01ee
+- history:
+    - content: хочу заказать сухарики и пиво
+      role: user
+    - content: Какой вкус сухариков вам интересен?
+      role: assistant
+    - content: что-то острое можно
+      role: user
+    - content: Сухарики Хрусteam багет индейка-горчичный соус, 100г за 70 рублей подойдут?
+      role: assistant
+    - content: 'да '
+      role: user
+    - content: Какое пиво предпочитаете — светлое, темное или безалкогольное?
+      role: assistant
+    - content: балтика светлое
+      role: user
+    - content: Балтика №3 Классическое, 0.9л за 100 рублей подойдет?
+      role: assistant
+    - content: да оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 1f06104c-53a1-5d2d-9713-cb218a01effc
+- history:
+    - content: хочу заказать сухарики и пиво
+      role: user
+    - content: Какой вкус сухариков вам интересен?
+      role: assistant
+    - content: что-то острое можно
+      role: user
+    - content: Сухарики Хрусteam багет индейка-горчичный соус, 100г за 70 рублей подойдут?
+      role: assistant
+    - content: 'да '
+      role: user
+    - content: Какое пиво предпочитаете — светлое, темное или безалкогольное?
+      role: assistant
+    - content: балтика светлое
+      role: user
+    - content: Балтика №3 Классическое, 0.9л за 100 рублей подойдет?
+      role: assistant
+    - content: да оформи заказ
+      role: user
+    - content: "Ваш заказ: \n- Сухарики Хрусteam багет индейка-горчичный соус, 100г\
+        \ — 70 рублей\n- Пиво Балтика №3 Классическое, 0.9л — 100 рублей\n\nПодтверждаете\
+        \ заказ и адрес доставки?"
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: d0771624-1c30-574c-9956-5847759a0b2c
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+  inquire_product: false
+  messages_uuid: bbd71650-8c8c-51d5-a7ef-6a83db2e3691
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+  inquire_product: false
+  messages_uuid: 39e7797e-5358-5066-aa5b-323115e720ad
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Советское Шампанское розовое брют, 0.75л - 239 руб.
+
+        2. Новый Светъ розовое брют, 0.75л - 1619 руб.
+
+        3. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+
+        Какой из них выбрать?'
+      role: assistant
+    - content: давай самое дорогое!
+      role: user
+  inquire_product: false
+  messages_uuid: 437a105d-3c03-598e-9e40-aa5e5b5112eb
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Советское Шампанское розовое брют, 0.75л - 239 руб.
+
+        2. Новый Светъ розовое брют, 0.75л - 1619 руб.
+
+        3. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+
+        Какой из них выбрать?'
+      role: assistant
+    - content: давай самое дорогое!
+      role: user
+    - content: Добавить "Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л" за 1399
+        руб. в корзину?
+      role: assistant
+    - content: 'да
+
+        что бы ты ещё порекомендовал для атмосферы?'
+      role: user
+  inquire_product: false
+  messages_uuid: e4e53353-aa1a-542e-a764-e0481a372401
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Советское Шампанское розовое брют, 0.75л - 239 руб.
+
+        2. Новый Светъ розовое брют, 0.75л - 1619 руб.
+
+        3. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+
+        Какой из них выбрать?'
+      role: assistant
+    - content: давай самое дорогое!
+      role: user
+    - content: Добавить "Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л" за 1399
+        руб. в корзину?
+      role: assistant
+    - content: 'да
+
+        что бы ты ещё порекомендовал для атмосферы?'
+      role: user
+    - content: Как насчет свечей?
+      role: assistant
+    - content: свечи да, давай поромантичнее
+      role: user
+  inquire_product: false
+  messages_uuid: 5706f6ed-d2b9-59af-82b4-c460b368f6a7
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Советское Шампанское розовое брют, 0.75л - 239 руб.
+
+        2. Новый Светъ розовое брют, 0.75л - 1619 руб.
+
+        3. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+
+        Какой из них выбрать?'
+      role: assistant
+    - content: давай самое дорогое!
+      role: user
+    - content: Добавить "Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л" за 1399
+        руб. в корзину?
+      role: assistant
+    - content: 'да
+
+        что бы ты ещё порекомендовал для атмосферы?'
+      role: user
+    - content: Как насчет свечей?
+      role: assistant
+    - content: свечи да, давай поромантичнее
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. METRO PROFESSIONAL Свеча столбовая красная лакированная, 6.3 x 20см - 499
+        руб.
+
+
+        2. METRO PROFESSIONAL Свеча античная красная, 4шт - 199 руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: лакированную давай
+      role: user
+    - content: Добавить "METRO PROFESSIONAL Свеча столбовая красная лакированная,
+        6.3 x 20см" за 499 руб. в корзину?
+      role: assistant
+    - content: что сейчас в корзине?
+      role: user
+  inquire_product: false
+  messages_uuid: 60c11e0f-668c-534d-897c-d281ae80b410
+- history:
+    - content: посоветуй хорошее шампанское для ужина для двоих
+      role: user
+    - content: Предпочитаете белое или розовое шампанское?
+      role: assistant
+    - content: розовое наверное
+      role: user
+    - content: Брют или полусладкое?
+      role: assistant
+    - content: что такое брют подскажи
+      role: user
+    - content: Брют – это сухое шампанское с минимальным содержанием сахара. Предпочитаете
+        сухое или полусладкое?
+      role: assistant
+    - content: тогда давай брют
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Советское Шампанское розовое брют, 0.75л - 239 руб.
+
+        2. Новый Светъ розовое брют, 0.75л - 1619 руб.
+
+        3. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+
+        Какой из них выбрать?'
+      role: assistant
+    - content: давай самое дорогое!
+      role: user
+    - content: Добавить "Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л" за 1399
+        руб. в корзину?
+      role: assistant
+    - content: 'да
+
+        что бы ты ещё порекомендовал для атмосферы?'
+      role: user
+    - content: Как насчет свечей?
+      role: assistant
+    - content: свечи да, давай поромантичнее
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. METRO PROFESSIONAL Свеча столбовая красная лакированная, 6.3 x 20см - 499
+        руб.
+
+
+        2. METRO PROFESSIONAL Свеча античная красная, 4шт - 199 руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: лакированную давай
+      role: user
+    - content: Добавить "METRO PROFESSIONAL Свеча столбовая красная лакированная,
+        6.3 x 20см" за 499 руб. в корзину?
+      role: assistant
+    - content: что сейчас в корзине?
+      role: user
+    - content: 'В корзине:
+
+        1. Gerard Bertrand Papilou Pet-Nat розовое брют, 0.75л - 1399 руб.
+
+        2. METRO PROFESSIONAL Свеча столбовая красная лакированная, 6.3 x 20см - 499
+        руб.
+
+
+        Оформляем заказ?'
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: 70c5922b-ec81-53f7-ba94-9284ca5e7d25
+- history:
+    - content: какой процент жирности у сыра лёгкий?
+      role: user
+  inquire_product: true
+  messages_uuid: dd2397a4-fce6-5244-953c-271824360a51
+- history:
+    - content: какой процент жирности у сыра лёгкий?
+      role: user
+    - content: 'У нас есть несколько вариантов лёгкого сыра с разным процентом жирности.
+        Какой вас интересует: 16%, 30%, или 35%?'
+      role: assistant
+    - content: нужен с минимальной жирностью
+      role: user
+  inquire_product: true
+  messages_uuid: 48b0cbd6-c1ad-5c2c-9e93-b6517dde7c9d
+- history:
+    - content: какой процент жирности у сыра лёгкий?
+      role: user
+    - content: 'У нас есть несколько вариантов лёгкого сыра с разным процентом жирности.
+        Какой вас интересует: 16%, 30%, или 35%?'
+      role: assistant
+    - content: нужен с минимальной жирностью
+      role: user
+    - content: Рекомендую сыр "Сыр Natura cливочный легкий полутвердый 16%, 200г"
+        за 219 рублей. Хотите добавить его в корзину?
+      role: assistant
+    - content: да добавь
+      role: user
+  inquire_product: false
+  messages_uuid: ddcaac13-379b-50c9-b4ee-4c311c7fb06b
+- history:
+    - content: добавь в корзину овсяное печенье 3 пачки
+      role: user
+  inquire_product: false
+  messages_uuid: efe7d8ce-f43d-5f02-8ede-516070bbc939
+- history:
+    - content: добавь в корзину овсяное печенье 3 пачки
+      role: user
+    - content: Какое овсяное печенье вы предпочитаете?
+      role: assistant
+    - content: скажи какое есть и добавь 3 пачки
+      role: user
+  inquire_product: false
+  messages_uuid: 22810ef0-933f-538a-bef8-d83951593c3a
+- history:
+    - content: добавь в корзину овсяное печенье 3 пачки
+      role: user
+    - content: Какое овсяное печенье вы предпочитаете?
+      role: assistant
+    - content: скажи какое есть и добавь 3 пачки
+      role: user
+    - content: 'Вот некоторые варианты овсяного печенья:
+
+        1. Печенье Полет овсяное, 300г - 145 руб.
+
+        2. Печенье Юбилейное с овсяными хлопьями, 268г - 80 руб.
+
+        3. aro Печенье овсяное, 400г - 74 руб.
+
+
+        Какое из них добавить в корзину?'
+      role: assistant
+    - content: полёт
+      role: user
+    - content: Отлично! Я добавлю 3 пачки "Печенье Полет овсяное, 300г" по 145 руб.
+        в корзину.
+      role: assistant
+    - content: удали одну пачку
+      role: user
+  inquire_product: false
+  messages_uuid: 14e577a5-1dd7-530e-a4ac-5a998f5f43c8
+- history:
+    - content: добавь в корзину овсяное печенье 3 пачки
+      role: user
+    - content: Какое овсяное печенье вы предпочитаете?
+      role: assistant
+    - content: скажи какое есть и добавь 3 пачки
+      role: user
+    - content: 'Вот некоторые варианты овсяного печенья:
+
+        1. Печенье Полет овсяное, 300г - 145 руб.
+
+        2. Печенье Юбилейное с овсяными хлопьями, 268г - 80 руб.
+
+        3. aro Печенье овсяное, 400г - 74 руб.
+
+
+        Какое из них добавить в корзину?'
+      role: assistant
+    - content: полёт
+      role: user
+    - content: Отлично! Я добавлю 3 пачки "Печенье Полет овсяное, 300г" по 145 руб.
+        в корзину.
+      role: assistant
+    - content: удали одну пачку
+      role: user
+    - content: "Удаляю одну пачку. Теперь в корзине 2 пачки \"Печенье Полет овсяное,\
+        \ 300г\". \n\nПродолжим покупки?"
+      role: assistant
+    - content: да, добавь сыр маасдам любой
+      role: user
+  inquire_product: false
+  messages_uuid: 3f41cecb-212d-5c8f-8024-d3df77561439
+- history:
+    - content: добавь в корзину овсяное печенье 3 пачки
+      role: user
+    - content: Какое овсяное печенье вы предпочитаете?
+      role: assistant
+    - content: скажи какое есть и добавь 3 пачки
+      role: user
+    - content: 'Вот некоторые варианты овсяного печенья:
+
+        1. Печенье Полет овсяное, 300г - 145 руб.
+
+        2. Печенье Юбилейное с овсяными хлопьями, 268г - 80 руб.
+
+        3. aro Печенье овсяное, 400г - 74 руб.
+
+
+        Какое из них добавить в корзину?'
+      role: assistant
+    - content: полёт
+      role: user
+    - content: Отлично! Я добавлю 3 пачки "Печенье Полет овсяное, 300г" по 145 руб.
+        в корзину.
+      role: assistant
+    - content: удали одну пачку
+      role: user
+    - content: "Удаляю одну пачку. Теперь в корзине 2 пачки \"Печенье Полет овсяное,\
+        \ 300г\". \n\nПродолжим покупки?"
+      role: assistant
+    - content: да, добавь сыр маасдам любой
+      role: user
+    - content: "Добавляю \"METRO Chef Сыр Маасдам 45%, 200г\" за 199 руб. в корзину.\
+        \ \n\nЧто-то еще?"
+      role: assistant
+    - content: нет, удали маасдам и ещё одну пачку печенья удали
+      role: user
+  inquire_product: false
+  messages_uuid: 5991e3f5-2941-52df-b854-fe2009e4936e
+- history:
+    - content: нужен шампунь хед энд шоулдерс
+      role: user
+    - content: Для какого типа волос - жирные, сухие?
+      role: assistant
+    - content: жирные
+      role: user
+    - content: 'Выберите: Цитрусовая свежесть (589₽), Detox (609₽), или Основной уход
+        (589₽)?'
+      role: assistant
+    - content: цитрус подходит
+      role: user
+    - content: Добавить "Head & Shoulders Цитрусовая свежесть, 400 мл" за 589₽ в корзину?
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: bb356237-c511-55bd-861f-90508c46a7dc
+- history:
+    - content: нужен шампунь хед энд шоулдерс
+      role: user
+    - content: Для какого типа волос - жирные, сухие?
+      role: assistant
+    - content: жирные
+      role: user
+    - content: 'Выберите: Цитрусовая свежесть (589₽), Detox (609₽), или Основной уход
+        (589₽)?'
+      role: assistant
+    - content: цитрус подходит
+      role: user
+    - content: Добавить "Head & Shoulders Цитрусовая свежесть, 400 мл" за 589₽ в корзину?
+      role: assistant
+    - content: да
+      role: user
+    - content: Шампунь добавлен в корзину. Хотите оформить заказ?
+      role: assistant
+    - content: есть зубная паста колгейт
+      role: user
+    - content: Какой тип зубной пасты вас интересует - отбеливающая, для чувствительных
+        зубов, детская?
+      role: assistant
+    - content: тройное действие хотелось бы
+      role: user
+    - content: 'Есть три варианта:
+
+        1. Натуральная мята, 100 мл - 152₽
+
+        2. Экстра отбеливание, 100 мл - 152₽
+
+        3. Тройное действие, 150 мл - 174₽
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: третий
+      feature: ordinal_number_selection
+      role: user
+    - content: Добавить "Colgate Тройное действие, 150 мл" за 174₽ в корзину?
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: 69dd05f1-26fb-5b04-9ab1-c70742cca43a
+- history:
+    - content: нужен влажный корм для кошек роял канин
+      role: user
+    - content: Какой вкус предпочтительнее - говядина, курица или что-то другое?
+      role: assistant
+    - content: в целом любой подойдёт
+      feature: autoselect_for_customer
+      role: user
+    - content: Есть "Корм влажный Royal Canin Красивая шерсть соус для кошек от 1
+        года, 85г" за 102 рубля. Подойдет?
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: b81e85bd-44aa-5455-bcc8-a582ae9fcdbf
+- history:
+    - content: есть кетчуп хайнц?
+      role: user
+    - content: Какой вид кетчупа вам нужен - томатный, острый или с пряностями?
+      role: assistant
+    - content: для шашлыков какой лучше подскажи
+      role: user
+    - content: 'Рекомендую:
+
+        1. Heinz Паприка и пряности, 320г - 139 руб.
+
+        2. Heinz Для гриля и шашлыка, 320г - 100 руб.
+
+        3. Heinz Укроп-петрушка, 320г - 100 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: о, даже есть специальный для шашлыка, вот его и давай
+      role: user
+  inquire_product: false
+  messages_uuid: 5140b20e-82f6-59a0-ad96-5378498bc97b
+- history:
+    - content: есть кетчуп хайнц?
+      role: user
+    - content: Какой вид кетчупа вам нужен - томатный, острый или с пряностями?
+      role: assistant
+    - content: для шашлыков какой лучше подскажи
+      role: user
+    - content: 'Рекомендую:
+
+        1. Heinz Паприка и пряности, 320г - 139 руб.
+
+        2. Heinz Для гриля и шашлыка, 320г - 100 руб.
+
+        3. Heinz Укроп-петрушка, 320г - 100 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: о, даже есть специальный для шашлыка, вот его и давай
+      role: user
+    - content: Отличный выбор! Добавлен кетчуп Heinz Паприка и пряности, 320г в корзину.
+        Что-то еще нужно?
+      role: assistant
+    - content: мыло дав надо
+      role: user
+    - content: Какой тип мыла вам нужен - жидкое, твердое или гель для душа?
+      role: assistant
+    - content: да, гель для душа как раз
+      role: user
+    - content: 'Рекомендую:
+
+        1. Dove Глубокое питание, 250мл - 299 руб.
+
+        2. Dove Восстанавливающий ритуал, 250мл - 299 руб.
+
+        3. Dove Объем и восстановление, 250мл - 299 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: питание
+      role: user
+    - content: Отлично! Добавлен гель для душа Dove Глубокое питание, 250мл в корзину.
+        Что-то еще?
+      role: assistant
+    - content: балтика тёмное найдётся?
+      role: user
+    - content: Да, есть Балтика темное, 0.45л за 64 руб. Добавить в корзину?
+      role: assistant
+    - content: а побольше нет?
+      role: user
+    - content: К сожалению, Балтика темное есть только в объеме 0.45л. Хотите добавить
+        его в корзину?
+      role: assistant
+    - content: давай тогда 2 банки
+      role: user
+  inquire_product: false
+  messages_uuid: dd5973e3-3a1a-55d4-abc5-6c919fde2a69
+- history:
+    - content: есть кетчуп хайнц?
+      role: user
+    - content: Какой вид кетчупа вам нужен - томатный, острый или с пряностями?
+      role: assistant
+    - content: для шашлыков какой лучше подскажи
+      role: user
+    - content: 'Рекомендую:
+
+        1. Heinz Паприка и пряности, 320г - 139 руб.
+
+        2. Heinz Для гриля и шашлыка, 320г - 100 руб.
+
+        3. Heinz Укроп-петрушка, 320г - 100 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: о, даже есть специальный для шашлыка, вот его и давай
+      role: user
+    - content: Отличный выбор! Добавлен кетчуп Heinz Паприка и пряности, 320г в корзину.
+        Что-то еще нужно?
+      role: assistant
+    - content: мыло дав надо
+      role: user
+    - content: Какой тип мыла вам нужен - жидкое, твердое или гель для душа?
+      role: assistant
+    - content: да, гель для душа как раз
+      role: user
+    - content: 'Рекомендую:
+
+        1. Dove Глубокое питание, 250мл - 299 руб.
+
+        2. Dove Восстанавливающий ритуал, 250мл - 299 руб.
+
+        3. Dove Объем и восстановление, 250мл - 299 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: питание
+      role: user
+    - content: Отлично! Добавлен гель для душа Dove Глубокое питание, 250мл в корзину.
+        Что-то еще?
+      role: assistant
+    - content: балтика тёмное найдётся?
+      role: user
+    - content: Да, есть Балтика темное, 0.45л за 64 руб. Добавить в корзину?
+      role: assistant
+    - content: а побольше нет?
+      role: user
+    - content: К сожалению, Балтика темное есть только в объеме 0.45л. Хотите добавить
+        его в корзину?
+      role: assistant
+    - content: давай тогда 2 банки
+      role: user
+    - content: Добавил 2 банки Балтика темное, 0.45л в корзину. Что-то еще?
+      role: assistant
+    - content: есть молочка домик в деревне?
+      role: user
+    - content: Да, есть. Что именно хотите - молоко, кефир, творог, сметану?
+      role: assistant
+    - content: молоко и йогурты хотелось бы
+      role: user
+    - content: Какое молоко предпочитаете - пастеризованное или ультрапастеризованное?
+      role: assistant
+    - content: молоко поменьше жирности главное и йогурт тоже
+      feature: min-max_comparison
+      role: user
+    - content: 'Рекомендую:
+
+        1. Молоко Домик в деревне ультрапастеризованное 1.5%, 950г - 87 руб.
+
+        2. Йогурт питьевой Актибио персик 1.5%, 870г - 139 руб.
+
+
+        Подходит?'
+      role: assistant
+    - content: молоко да, а йогурт же не домик в деревне, другая фирма - Актибио?
+      role: user
+    - content: Действительно, йогуртов фирмы Домик в деревне нет в наличии. Вам подобрать
+        йогурт другой фирмы или другую продукцию Домик в деревне?
+      role: assistant
+    - content: давай тогда творог домик в деревне
+      role: user
+    - content: 'Рекомендую:
+
+        1. Творог Домик в деревне 5%, 150г - 94 руб.
+
+        2. Творог Домик в деревне 9%, 150г - 107 руб.
+
+        3. Творог Домик в деревне рассыпчатый 5%, 435г - 219 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: меньшей жирности и подешевле
+      role: user
+  inquire_product: false
+  messages_uuid: f585ef65-7b96-52ee-afc7-2ce6b0c80a57
+- history:
+    - content: собери продукты для лёгкого ужина для двух человек
+      role: user
+  inquire_product: false
+  messages_uuid: 5110bab8-9169-5592-b91f-e53492bfa380
+- history:
+    - content: нужен вкусный торт
+      role: user
+    - content: Какой вкус предпочитаете  - шоколадный, фруктовый или другой?
+      role: assistant
+    - content: фруктовый или ягодный или микс
+      role: user
+    - content: Нужен торт для большой компании или что-то более компактное?
+      role: assistant
+    - content: ''
+      role: user
+    - content: побольше
+      role: assistant
+    - content: побольше
+      feature: min-max_comparison
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        Торт Mirel черничное молоко, 750г
+
+        Торт Renardi Йогуртовый с маракуйей
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: а сколько стоят?
+      feature: price_inquiry
+      role: user
+    - content: 'Торт Mirel черничное молоко - 719 рублей,
+
+        Торт Renardi Йогуртовый с маракуйей - 839 рублей.
+
+
+        Какой из них предпочтительнее?'
+      role: assistant
+    - content: маракуйя
+      role: user
+  inquire_product: false
+  messages_uuid: 4465ed39-1c75-53a0-9853-4d45d9bc508c
+- history:
+    - content: нужен вкусный торт
+      role: user
+    - content: Какой вкус предпочитаете  - шоколадный, фруктовый или другой?
+      role: assistant
+    - content: фруктовый или ягодный или микс
+      role: user
+    - content: Нужен торт для большой компании или что-то более компактное?
+      role: assistant
+    - content: ''
+      role: user
+    - content: побольше
+      role: assistant
+    - content: побольше
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        Торт Mirel черничное молоко, 750г
+
+        Торт Renardi Йогуртовый с маракуйей
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: а сколько стоят?
+      role: user
+    - content: 'Торт Mirel черничное молоко - 719 рублей,
+
+        Торт Renardi Йогуртовый с маракуйей - 839 рублей.
+
+
+        Какой из них предпочтительнее?'
+      role: assistant
+    - content: маракуйя
+      role: user
+    - content: Торт Renardi Йогуртовый с маракуйей добавлен в корзину. Желаете что-то
+        ещё?
+      role: assistant
+    - content: хочу кофе с горчинкой
+      role: user
+    - content: Кофе в зернах или молотый?
+      role: assistant
+    - content: в зёрнах
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        Кофе Coferium Strong в зернах, 1кг - 1179 рублей,
+
+        Кофе Origo Professional Star эспрессо в зернах, 1кг - 2199 рублей,
+
+        Кофе Poetti Leggenda Espresso в зернах, 1кг - 1959 рублей.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: а какой из них с горчинкой?
+      role: user
+    - content: 'Кофе Coferium Strong в зернах, 1кг - имеет насыщенный вкус с горчинкой.
+
+
+        Хотите добавить его в корзину?'
+      role: assistant
+    - content: да отлично добавь
+      role: user
+  inquire_product: false
+  messages_uuid: 9f887a95-4624-51b6-8938-b8a740e5db70
+- history:
+    - content: найди мне какую-нибудь булочку только обязательно без кунжута
+      role: user
+    - content: 'У нас есть несколько вариантов. Вот они:
+
+
+        1. Булочка Черемушки Улитка крем-изюм, 100г, 64 руб.
+
+        2. Булочка Еврохлеб Французская (40г x 7шт), 280г, 73 руб.
+
+        3. Булочка Еврохлеб Пражская (40г х 7шт), 280г, 101 руб.
+
+
+        Какую из них добавить в корзину?'
+      role: assistant
+    - content: лучше бы вообще без добавок, не хочу с кремом, самую простую
+      role: user
+    - content: 'Тогда подойдет Булочка Еврохлеб Французская (40г x 7шт), 280г, 73
+        руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: 6b66bcd9-19f4-5d60-897f-7aa6980c9030
+- history:
+    - content: найди мне какую-нибудь булочку только обязательно без кунжута
+      role: user
+    - content: 'У нас есть несколько вариантов. Вот они:
+
+
+        1. Булочка Черемушки Улитка крем-изюм, 100г, 64 руб.
+
+        2. Булочка Еврохлеб Французская (40г x 7шт), 280г, 73 руб.
+
+        3. Булочка Еврохлеб Пражская (40г х 7шт), 280г, 101 руб.
+
+
+        Какую из них добавить в корзину?'
+      role: assistant
+    - content: лучше бы вообще без добавок, не хочу с кремом, самую простую
+      role: user
+    - content: 'Тогда подойдет Булочка Еврохлеб Французская (40г x 7шт), 280г, 73
+        руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да
+      role: user
+    - content: Булочка Еврохлеб Французская добавлена в корзину. Хотите что-то еще?
+      role: assistant
+    - content: бездрожжевой хлеб
+      role: user
+    - content: 'У нас есть несколько вариантов бездрожжевого хлеба:
+
+
+        1. Хлеб домашний Хлебный дом бездрожжевой, 350г, 48 руб.
+
+        2. Хлеб Коломенский Даниловский ржано-пшеничный бездрожжевой, 350г, 44 руб.
+
+        3. Хлеб Рижский хлеб Бородинский бездрожжевой, 300г, 80 руб.
+
+
+        Какой из них добавить в корзину?'
+      role: assistant
+    - content: какой из них чёрный хлеб?
+      role: user
+    - content: 'Чёрный хлеб бездрожжевой:
+
+
+        1. Хлеб Рижский хлеб Бородинский бездрожжевой, 300г, 80 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да, отлично
+      role: user
+  inquire_product: false
+  messages_uuid: f369968a-acf5-57b2-bd8c-eee7b4194b13
+- history:
+    - content: найди мне какую-нибудь булочку только обязательно без кунжута
+      role: user
+    - content: 'У нас есть несколько вариантов. Вот они:
+
+
+        1. Булочка Черемушки Улитка крем-изюм, 100г, 64 руб.
+
+        2. Булочка Еврохлеб Французская (40г x 7шт), 280г, 73 руб.
+
+        3. Булочка Еврохлеб Пражская (40г х 7шт), 280г, 101 руб.
+
+
+        Какую из них добавить в корзину?'
+      role: assistant
+    - content: лучше бы вообще без добавок, не хочу с кремом, самую простую
+      role: user
+    - content: 'Тогда подойдет Булочка Еврохлеб Французская (40г x 7шт), 280г, 73
+        руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да
+      role: user
+    - content: Булочка Еврохлеб Французская добавлена в корзину. Хотите что-то еще?
+      role: assistant
+    - content: бездрожжевой хлеб
+      role: user
+    - content: 'У нас есть несколько вариантов бездрожжевого хлеба:
+
+
+        1. Хлеб домашний Хлебный дом бездрожжевой, 350г, 48 руб.
+
+        2. Хлеб Коломенский Даниловский ржано-пшеничный бездрожжевой, 350г, 44 руб.
+
+        3. Хлеб Рижский хлеб Бородинский бездрожжевой, 300г, 80 руб.
+
+
+        Какой из них добавить в корзину?'
+      role: assistant
+    - content: какой из них чёрный хлеб?
+      role: user
+    - content: 'Чёрный хлеб бездрожжевой:
+
+
+        1. Хлеб Рижский хлеб Бородинский бездрожжевой, 300г, 80 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да, отлично
+      role: user
+    - content: Хлеб Рижский хлеб Бородинский бездрожжевой добавлен в корзину. Хотите
+        что-то еще?
+      role: assistant
+    - content: хочу фруктовый сок без сахара
+      role: user
+    - content: 'У нас есть несколько вариантов фруктовых соков без сахара:
+
+
+        1. Сок Добрый Яблочный, 1л, 109 руб.
+
+        2. Сок ФрутоНяня Яблочный осветленный без сахара, 200мл, 32 руб.
+
+        3. Сок детский Агуша Яблоко осветленный, 500мл, 69 руб.
+
+
+        Какой из них предпочитаете?'
+      role: assistant
+    - content: неплохо, но все яблочные.. есть грушевый или манговый сок без сахара
+        или мультифрукт
+      role: user
+    - content: 'К сожалению, у нас нет грушевого или мангового сока без сахара. Но
+        есть мультифруктовый сок:
+
+
+        1. Сок Добрый Active kid мультифруктовый, обогащенный витаминным комплексом,
+        200мл, 33 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: он точно без сахара? добавляй
+      role: user
+  inquire_product: true
+  messages_uuid: 97e3278e-ab5a-5f0a-9573-10e472f492b0
+- history:
+    - content: безлактозный йогурт какой-то можешь предложить?
+      role: user
+    - content: Какой вкус предпочитаете - фруктовый или ягодный?
+      role: assistant
+    - content: вообще хотелось бы просто белый без добавок
+      role: user
+    - content: Йогурт питьевой Parmalat безлактозный натуральный, 290г, 75 руб. Подойдет?
+      role: assistant
+    - content: а он жидкий? я хотела в стаканчике
+      feature: search_by_packaging_type
+      role: user
+    - content: Йогурт безлактозный натуральный Parmalat 3.5%, 130г, 74 руб. Подойдет?
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: e7464d80-311e-5178-8d04-cd20f789f5b0
+- history:
+    - content: Найди куриное филе
+      role: user
+    - content: Охлажденное или замороженное?
+      role: assistant
+    - content: лучше охлаждённое
+      role: user
+    - content: Филе грудки или бедра?
+      role: assistant
+    - content: грудки
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Петелинка, 800г - 375 руб.
+
+        2. Латифа Халяль, 1кг - 419 руб.
+
+        3. METRO Chef, 1кг - 390 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: петелинку
+      role: user
+    - content: Добавить в корзину?
+      role: assistant
+    - content: да, добавь петелинку
+      role: user
+  inquire_product: false
+  messages_uuid: 4b283dba-2e40-519e-8a5f-880a7f159c19
+- history:
+    - content: Покажи варианты туалетной бумаги
+      role: user
+    - content: Какой тип туалетной бумаги вам нужен - обычная или влажная?
+      role: assistant
+    - content: самая обычная
+      role: user
+    - content: Сколько рулонов планируете купить - 4, 8 или больше?
+      role: assistant
+    - content: 8 или 12
+      role: user
+    - content: 'Предлагаю следующие варианты туалетной бумаги:
+
+        1. Туалетная бумага Papia 3-слойная, 8 рулонов - 179 рублей
+
+        2. aro Туалетная бумага 2-слойная, 8 рулонов - 169 рублей
+
+        3. Туалетная бумага Zewa Deluxe Персик 3-слойная, 8 рулонов - 239 рублей
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: давай-ка зеву
+      role: user
+  inquire_product: false
+  messages_uuid: 1b4cc357-a942-5e43-885a-04dce9d84955
+- history:
+    - content: Покажи варианты туалетной бумаги
+      role: user
+    - content: Какой тип туалетной бумаги вам нужен - обычная или влажная?
+      role: assistant
+    - content: самая обычная
+      role: user
+    - content: Сколько рулонов планируете купить - 4, 8 или больше?
+      role: assistant
+    - content: 8 или 12
+      role: user
+    - content: 'Предлагаю следующие варианты туалетной бумаги:
+
+        1. Туалетная бумага Papia 3-слойная, 8 рулонов - 179 рублей
+
+        2. aro Туалетная бумага 2-слойная, 8 рулонов - 169 рублей
+
+        3. Туалетная бумага Zewa Deluxe Персик 3-слойная, 8 рулонов - 239 рублей
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: давай-ка зеву
+      role: user
+    - content: Отлично! Добавила Туалетную бумагу Zewa Deluxe Персик 3-слойная, 8
+        рулонов в вашу корзину. Что-то еще нужно?
+      role: assistant
+    - content: Мне нужны макароны для пасты
+      role: user
+    - content: Какой тип макарон вам нужен - спагетти, фарфалле или другой?
+      role: assistant
+    - content: можно спагетти
+      role: user
+    - content: 'Вот несколько вариантов спагетти:
+
+        1. Спагетти Шебекинские №002, 450г - 53 рубля
+
+        2. Спагетти Dalla Costa с чесноком и острым перцем, 500г - 409 рублей
+
+        3. Макароны Barilla Integrale спагетти, 450г - 99 рублей
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: любые обычные без доп вкусов
+      role: user
+  inquire_product: false
+  messages_uuid: 4f8627e5-c9ad-5fa3-8bee-1d92fc6047b5
+- history:
+    - content: Ищу молоко 3.2% жирности
+      role: user
+  inquire_product: false
+  messages_uuid: b581f285-7d5c-598e-9981-4702bcaf6ec5
+- history:
+    - content: Ищу молоко 3.2% жирности
+      role: user
+    - content: Какой объем вам нужен 0,5 л, 1 л или другой?
+      role: assistant
+    - content: литр подойдёт
+      role: user
+    - content: 'Выберите: "Молоко М ультрапастеризованное 3.2%, 925мл" за 85 рублей,
+        "Молоко Белый город ультрапастеризованное 3.2%, 1л" за 112 рублей, или "Молоко
+        Эконива Professional Line ультрапастеризованное 3.2%, 1л" за 90 рублей?'
+      role: assistant
+    - content: белый город
+      role: user
+    - content: Добавить "Молоко Белый город ультрапастеризованное 3.2%, 1л" за 112
+        рублей в корзину?
+      role: assistant
+    - content: ага
+      role: user
+  inquire_product: false
+  messages_uuid: 46bc412a-1268-5103-b947-97974174ffad
+- history:
+    - content: Покажи варианты моющих средств для посуды
+      role: user
+    - content: Для мытья посуды или посудомоечной машины?
+      role: assistant
+    - content: ручное мытьё посуды
+      role: user
+    - content: 'Выберите: Sorti апельсин-мята 900г (139р), Frosch малина 500мл (299р),
+        или AOS Лимон 450мл (141р)?'
+      role: assistant
+    - content: а фэри может есть?
+      feature: search_by_brand
+      role: user
+    - content: Да, есть Fairy Нежные руки розовый жасмин и алоэ вера 450мл за 119р.
+      role: assistant
+    - content: положи его в корзину
+      role: user
+  inquire_product: false
+  messages_uuid: 61b8fd45-03be-539e-a37f-f33143bb099e
+- history:
+    - content: Покажи варианты моющих средств для посуды
+      role: user
+    - content: Для мытья посуды или посудомоечной машины?
+      role: assistant
+    - content: ручное мытьё посуды
+      role: user
+    - content: 'Выберите: Sorti апельсин-мята 900г (139р), Frosch малина 500мл (299р),
+        или AOS Лимон 450мл (141р)?'
+      role: assistant
+    - content: а фэри может есть?
+      role: user
+    - content: Да, есть Fairy Нежные руки розовый жасмин и алоэ вера 450мл за 119р.
+      role: assistant
+    - content: положи его в корзину
+      role: user
+    - content: Fairy Нежные руки розовый жасмин и алоэ вера 450мл добавлен в корзину.
+        Хотите что-то еще?
+      role: assistant
+    - content: Мне нужны яйца для выпечки
+      role: user
+    - content: Куриные или перепелиные яйца?
+      role: assistant
+    - content: куриные две штучки
+      role: user
+    - content: Минимальная упаковка - 9 штук. Подойдет?
+      role: assistant
+    - content: да давай 9 тогда
+      role: user
+  inquire_product: false
+  messages_uuid: 558ccd07-57eb-5ab3-97f8-95e6f9c00296
+- history:
+    - content: Покажи варианты моющих средств для посуды
+      role: user
+    - content: Для мытья посуды или посудомоечной машины?
+      role: assistant
+    - content: ручное мытьё посуды
+      role: user
+    - content: 'Выберите: Sorti апельсин-мята 900г (139р), Frosch малина 500мл (299р),
+        или AOS Лимон 450мл (141р)?'
+      role: assistant
+    - content: а фэри может есть?
+      role: user
+    - content: Да, есть Fairy Нежные руки розовый жасмин и алоэ вера 450мл за 119р.
+      role: assistant
+    - content: положи его в корзину
+      role: user
+    - content: Fairy Нежные руки розовый жасмин и алоэ вера 450мл добавлен в корзину.
+        Хотите что-то еще?
+      role: assistant
+    - content: Мне нужны яйца для выпечки
+      role: user
+    - content: Куриные или перепелиные яйца?
+      role: assistant
+    - content: куриные две штучки
+      role: user
+    - content: Минимальная упаковка - 9 штук. Подойдет?
+      role: assistant
+    - content: да давай 9 тогда
+      role: user
+    - content: Яйцо куриное Федоровская птицефабрика свободный выгул 9шт добавлено
+        в корзину. Есть ли что-то еще, чем могу помочь?
+      role: assistant
+    - content: салфетки для машины есть?
+      role: user
+  inquire_product: true
+  messages_uuid: 998a9f29-d19d-51fb-82ef-c00a663cd741
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+  inquire_product: false
+  messages_uuid: 6b02fcd8-f185-5a68-b83e-edaa233ac774
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+    - content: "Добавляю 5 кг картошки в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: сок яблочный 1 литр любой марки
+      role: user
+  inquire_product: false
+  messages_uuid: e665ceb2-a619-522d-b616-52f76ac6976a
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+    - content: "Добавляю 5 кг картошки в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: сок яблочный 1 литр любой марки
+      role: user
+    - content: 'Добавляю сок яблочный 1 литр марки RIOBA за 80 рублей в корзину.
+
+
+        Что-то еще?'
+      role: assistant
+    - content: передумала поменяй яблочный сок на мультифрукт и 2 упаковки а не 1
+      role: user
+  inquire_product: false
+  messages_uuid: 5f298b74-eb03-5074-abdc-55150b866c39
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+    - content: "Добавляю 5 кг картошки в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: сок яблочный 1 литр любой марки
+      role: user
+    - content: 'Добавляю сок яблочный 1 литр марки RIOBA за 80 рублей в корзину.
+
+
+        Что-то еще?'
+      role: assistant
+    - content: передумала поменяй яблочный сок на мультифрукт и 2 упаковки а не 1
+      role: user
+    - content: 'Добавляю 2 упаковки мультифруктового нектара RIOBA по 1 литру за 80
+        рублей каждая в корзину.
+
+
+        Что-нибудь еще?'
+      role: assistant
+    - content: убери картошку лучше покажи кабачки есть?
+      role: user
+  inquire_product: false
+  messages_uuid: d66de2ed-1249-5506-8b7c-8fffa4b506cd
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+    - content: "Добавляю 5 кг картошки в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: сок яблочный 1 литр любой марки
+      role: user
+    - content: 'Добавляю сок яблочный 1 литр марки RIOBA за 80 рублей в корзину.
+
+
+        Что-то еще?'
+      role: assistant
+    - content: передумала поменяй яблочный сок на мультифрукт и 2 упаковки а не 1
+      role: user
+    - content: 'Добавляю 2 упаковки мультифруктового нектара RIOBA по 1 литру за 80
+        рублей каждая в корзину.
+
+
+        Что-нибудь еще?'
+      role: assistant
+    - content: убери картошку лучше покажи кабачки есть?
+      role: user
+    - content: 'Да, у нас есть несколько вариантов кабачков:
+
+
+        1. Кабачки Цукини, 249 рублей.
+
+        2. Кабачки весовые, 119 рублей за кг.
+
+
+        Какой вариант вам подходит?'
+      role: assistant
+    - content: обычные весовые добавь
+      role: user
+  inquire_product: false
+  messages_uuid: ad04141b-8c5b-502e-a2e6-3968f3112e07
+- history:
+    - content: добавь в корзину 5 кило картошки
+      role: user
+    - content: "Добавляю 5 кг картошки в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: сок яблочный 1 литр любой марки
+      role: user
+    - content: 'Добавляю сок яблочный 1 литр марки RIOBA за 80 рублей в корзину.
+
+
+        Что-то еще?'
+      role: assistant
+    - content: передумала поменяй яблочный сок на мультифрукт и 2 упаковки а не 1
+      role: user
+    - content: 'Добавляю 2 упаковки мультифруктового нектара RIOBA по 1 литру за 80
+        рублей каждая в корзину.
+
+
+        Что-нибудь еще?'
+      role: assistant
+    - content: убери картошку лучше покажи кабачки есть?
+      role: user
+    - content: 'Да, у нас есть несколько вариантов кабачков:
+
+
+        1. Кабачки Цукини, 249 рублей.
+
+        2. Кабачки весовые, 119 рублей за кг.
+
+
+        Какой вариант вам подходит?'
+      role: assistant
+    - content: обычные весовые добавь
+      role: user
+    - content: "Добавляю 1 кг обычных весовых кабачков в корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: покажи что сейчас в корзине
+      role: user
+  inquire_product: false
+  messages_uuid: 0382b915-54ca-5478-8961-3eeee8ecb453
+- history:
+    - content: найди мне вкусный фруктовый торт с маракуйей
+      role: user
+  inquire_product: true
+  messages_uuid: 5265dda1-b545-59c3-a4d8-62405a0359a0
+- history:
+    - content: добавь мне овсяную кашу
+      role: user
+  inquire_product: false
+  messages_uuid: 3b166613-6af0-5360-8ea9-4e0e30208346
+- history:
+    - content: добавь мне овсяную кашу
+      role: user
+    - content: Какой вкус предпочитаете - малина, клубника, персик?
+      role: assistant
+    - content: просто без добавок
+      role: user
+    - content: Какой объем предпочитаете – 200г, 500г?
+      role: assistant
+    - content: 200 пойдёт
+      role: user
+    - content: У нас есть каша овсяная Nestle молочная, 200г за 145 рублей. Добавлю
+        её
+      role: assistant
+    - content: ок ещё чай с жасмином в пакетиках любой бренд
+      role: user
+  inquire_product: false
+  messages_uuid: 244309f6-5ea8-504e-bc5b-864b6f88010b
+- history:
+    - content: добавь мне овсяную кашу
+      role: user
+    - content: Какой вкус предпочитаете - малина, клубника, персик?
+      role: assistant
+    - content: просто без добавок
+      role: user
+    - content: Какой объем предпочитаете – 200г, 500г?
+      role: assistant
+    - content: 200 пойдёт
+      role: user
+    - content: У нас есть каша овсяная Nestle молочная, 200г за 145 рублей. Добавлю
+        её
+      role: assistant
+    - content: ок ещё чай с жасмином в пакетиках любой бренд
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Ahmad Tea Jasmine Green Tea, 200г - 359 руб.
+
+        2. Greenfield Jasmine Dream, 200г - 299 руб.
+
+        3. Чёрный дракон зеленый с жасмином, 100г - 149 руб.
+
+
+        Какой выберете?'
+      role: assistant
+    - content: любой
+      role: user
+  inquire_product: false
+  messages_uuid: 659936d9-ff5a-5421-baa7-b1e0a4cc1413
+- history:
+    - content: нужен сок агуша
+      role: user
+    - content: Какой вкус предпочитаете — яблоко, груша, вишня?
+      role: assistant
+    - content: выбери любой
+      role: user
+  inquire_product: false
+  messages_uuid: e9a0b695-d727-5639-a113-2963e6aad589
+- history:
+    - content: нужен сок агуша
+      role: user
+    - content: Какой вкус предпочитаете — яблоко, груша, вишня?
+      role: assistant
+    - content: выбери любой
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Сок детский Агуша Яблоко осветленный, 500мл - 69 руб.
+
+        2. Сок детский Агуша Груша осветленный, 200мл - 32 руб.
+
+        3. Сок Агуша детский яблоко-вишня осветленный, 200мл - 32 руб.
+
+
+        Добавить какой-то из них в корзину?'
+      role: assistant
+    - content: выбери любой
+      role: user
+  inquire_product: false
+  messages_uuid: c7fad1a9-117d-53a0-96b8-5aaa44087cf1
+- history:
+    - content: нужен сок агуша
+      role: user
+    - content: Какой вкус предпочитаете — яблоко, груша, вишня?
+      role: assistant
+    - content: выбери любой
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Сок детский Агуша Яблоко осветленный, 500мл - 69 руб.
+
+        2. Сок детский Агуша Груша осветленный, 200мл - 32 руб.
+
+        3. Сок Агуша детский яблоко-вишня осветленный, 200мл - 32 руб.
+
+
+        Добавить какой-то из них в корзину?'
+      role: assistant
+    - content: выбери любой
+      role: user
+    - content: "Добавляю Сок детский Агуша Яблоко осветленный, 500мл за 69 руб. в\
+        \ корзину. \n\nЧто-нибудь еще?"
+      role: assistant
+    - content: давай ещё йогурт детский
+      role: user
+    - content: Какой вкус предпочитаете — клубника, малина, банан?
+      role: assistant
+    - content: да всё равно
+      role: user
+  inquire_product: false
+  messages_uuid: 3671a890-0fff-57bb-9558-9fc1d1cd126c
+- history:
+    - content: нужен стиральный порошок
+      role: user
+    - content: Для белого или цветного белья?
+      role: assistant
+    - content: вообще без разницы подбери скорее любой
+      role: user
+  inquire_product: false
+  messages_uuid: f49ac7b1-554c-5898-a7af-3d304c6d2918
+- history:
+    - content: нужен стиральный порошок
+      role: user
+    - content: Для белого или цветного белья?
+      role: assistant
+    - content: вообще без разницы подбери скорее любой
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Биолан Color автомат, 2.4кг, 259 руб.
+
+        2. Лоск Color автомат, 2.7кг, 379 руб.
+
+        3. Персил Color Cвежесть от Вернель, 1.5кг, 269 руб.
+
+
+        Какой выбрать?'
+      role: assistant
+    - content: любой
+      role: user
+  inquire_product: false
+  messages_uuid: 4662c93a-14ad-5f3a-af65-fbe39d514031
+- history:
+    - content: 'закажи пиццу 4 сыра '
+      role: user
+    - content: 'Какую предпочитаете: METRO Chef (429 руб.), La Trattoria (209 руб.),
+        или Zotman (539 руб.)?'
+      role: assistant
+    - content: фирменную метро
+      role: user
+    - content: Добавляю METRO Chef Пицца 4 сыра замороженная 27см, 350г за 429 руб.
+        в корзину. Подтвердить заказ?
+      role: assistant
+    - content: да
+      role: user
+    - content: Заказ подтвержден. Хотите оформить доставку на дом?
+      role: assistant
+    - content: так, планы поменялись, отмени заказ
+      role: user
+  inquire_product: false
+  messages_uuid: d1bd601c-eada-5074-b9e5-e83b95227bf4
+- history:
+    - content: подбери букет роз в подарок
+      role: user
+    - content: Сколько роз в букете вам подойдёт – 9, 15?
+      role: assistant
+    - content: 9 нормально
+      role: user
+    - content: 'Вот подходящий букет: "Букет кустовых роз L-40, 9шт", 1199 руб. Добавить
+        в корзину?'
+      role: assistant
+    - content: да
+      role: user
+    - content: Букет добавлен в корзину. Оформить заказ на доставку?
+      role: assistant
+    - content: да
+      role: user
+    - content: Отлично! Заказ на доставку оформлен. Благодарим за покупку!
+      role: assistant
+    - content: я передумал, отмени заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 8308027a-96e0-5b11-8bef-ea97d5671425
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+  inquire_product: false
+  messages_uuid: 4a39c14b-2384-57b1-85e5-efa7e5a5ad12
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+    - content: Какой вид мяса предпочитаете - свинина, говядина или курица?
+      role: assistant
+    - content: нужна говядина и курица а ещё маринад
+      role: user
+  inquire_product: false
+  messages_uuid: efb5365a-880b-5d56-acfa-2c29baa100aa
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+    - content: Какой вид мяса предпочитаете - свинина, говядина или курица?
+      role: assistant
+    - content: нужна говядина и курица а ещё маринад
+      role: user
+    - content: 'Вот что я нашел:
+
+
+        - Шашлык Мираторг из мраморной говядины, 800г - 799 руб.
+
+        - Шашлык из мяса цыпленка-бройлера Троекурово охлажденный, ~2кг - 498 руб.
+
+        - Маринад Костровок для шашлыка классический, 300г - 159 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: 'да
+
+        а ещё шампура надо и угли и чем разжигать'
+      role: user
+  inquire_product: false
+  messages_uuid: cf54868e-4d7f-5456-b519-7ea8c2c131b1
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+    - content: Какой вид мяса предпочитаете - свинина, говядина или курица?
+      role: assistant
+    - content: нужна говядина и курица а ещё маринад
+      role: user
+    - content: 'Вот что я нашел:
+
+
+        - Шашлык Мираторг из мраморной говядины, 800г - 799 руб.
+
+        - Шашлык из мяса цыпленка-бройлера Троекурово охлажденный, ~2кг - 498 руб.
+
+        - Маринад Костровок для шашлыка классический, 300г - 159 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: 'да
+
+        а ещё шампура надо и угли и чем разжигать'
+      role: user
+    - content: 'Вот подходящие варианты:
+
+
+        - Шампуры Grifon деревянные, 30см - 63 руб.
+
+        - METRO PROFESSIONAL Уголь высший сорт, 3кг - 329 руб.
+
+        - Жидкость для розжига Пикник, 500мл - 109 руб.
+
+
+        Добавить в корзину?'
+      role: assistant
+    - content: да, а шампура только деревянные?
+      role: user
+    - content: 'Есть и металлические:
+
+
+        - Набор шампуров Forester стальной с коррозионностойким покрытием, 60см -
+        649 руб.
+
+        - Набор шампуров Forester RZ-450SB из никелированной стали с ручкой-винтом,
+        6шт - 499 руб.
+
+
+        Какой вариант предпочитаете?'
+      role: assistant
+    - content: давай вот с ручкой винтом и покажи всё что в корзине
+      role: user
+    - content: 'В корзине:
+
+
+        1. Шашлык Мираторг из мраморной говядины, 800г - 799 руб.
+
+        2. Шашлык из мяса цыпленка-бройлера Троекурово охлажденный, ~2кг - 498 руб.
+
+        3. Маринад Костровок для шашлыка классический, 300г - 159 руб.
+
+        4. Набор шампуров Forester RZ-450SB из никелированной стали с ручкой-винтом,
+        6шт - 499 руб.
+
+        5. METRO PROFESSIONAL Уголь высший сорт, 3кг - 329 руб.
+
+        6. Жидкость для розжига Пикник, 500мл - 109 руб.
+
+
+        Общая сумма: 2393 руб.
+
+
+        О'
+      role: assistant
+    - content: отлично оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: ab243106-1124-598a-8ec1-ac243125f213
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+  inquire_product: false
+  messages_uuid: de98fa60-6852-5997-a60c-1e04fcfc873c
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+  inquire_product: false
+  messages_uuid: bbe25cc1-8b3f-5b6c-ae82-c1b05755d769
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1.Крылышки цыпленка-бройлера Петелинка острые для гриля охлажденные, ~1кг,
+        319
+
+        2. Котлеты Ближние горки для бургера из свинины охлажденные, 200г, 109
+
+        3. Перчики Ellenika острые фаршированные сливочным сыром, 250г - 429 руб.
+
+
+        Что-то из этого подойдет?'
+      role: assistant
+    - content: 'может перчики
+
+        а хотя нет, а есть роллы'
+      role: user
+  inquire_product: false
+  messages_uuid: 01d64251-3bec-5fec-ad65-6842a03ee2dc
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1.Крылышки цыпленка-бройлера Петелинка острые для гриля охлажденные, ~1кг,
+        319
+
+        2. Котлеты Ближние горки для бургера из свинины охлажденные, 200г, 109
+
+        3. Перчики Ellenika острые фаршированные сливочным сыром, 250г - 429 руб.
+
+
+        Что-то из этого подойдет?'
+      role: assistant
+    - content: 'может перчики
+
+        а хотя нет, а есть роллы'
+      role: user
+    - content: 'Да, есть роллы. Вот варианты:
+
+        1. Ролл Рококо Tritato куриный с сыром, 239 руб.
+
+        2. Тесто Pa Food для спринг роллов, 550г, 549 руб.
+
+        3. Нори Настоящие нори Gold из красных водорослей для роллов, 226 руб.
+
+
+        Что выберете?'
+      role: assistant
+    - content: я имела в виду роллы которые как суши а не которые как ролл-цезарь
+      role: user
+  inquire_product: false
+  messages_uuid: 9d0c2982-4949-501e-bc04-95acd1e33f27
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1.Крылышки цыпленка-бройлера Петелинка острые для гриля охлажденные, ~1кг,
+        319
+
+        2. Котлеты Ближние горки для бургера из свинины охлажденные, 200г, 109
+
+        3. Перчики Ellenika острые фаршированные сливочным сыром, 250г - 429 руб.
+
+
+        Что-то из этого подойдет?'
+      role: assistant
+    - content: 'может перчики
+
+        а хотя нет, а есть роллы'
+      role: user
+    - content: 'Да, есть роллы. Вот варианты:
+
+        1. Ролл Рококо Tritato куриный с сыром, 239 руб.
+
+        2. Тесто Pa Food для спринг роллов, 550г, 549 руб.
+
+        3. Нори Настоящие нори Gold из красных водорослей для роллов, 226 руб.
+
+
+        Что выберете?'
+      role: assistant
+    - content: я имела в виду роллы которые как суши а не которые как ролл-цезарь
+      role: user
+    - content: к сожалению, таки роллов нет, может подойдут рыбные блюда?
+      role: assistant
+    - content: да, что есть рыбного
+      role: user
+  inquire_product: false
+  messages_uuid: 5cb2fac7-d2f2-5299-800c-4fba7245e2ec
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1.Крылышки цыпленка-бройлера Петелинка острые для гриля охлажденные, ~1кг,
+        319
+
+        2. Котлеты Ближние горки для бургера из свинины охлажденные, 200г, 109
+
+        3. Перчики Ellenika острые фаршированные сливочным сыром, 250г - 429 руб.
+
+
+        Что-то из этого подойдет?'
+      role: assistant
+    - content: 'может перчики
+
+        а хотя нет, а есть роллы'
+      role: user
+    - content: 'Да, есть роллы. Вот варианты:
+
+        1. Ролл Рококо Tritato куриный с сыром, 239 руб.
+
+        2. Тесто Pa Food для спринг роллов, 550г, 549 руб.
+
+        3. Нори Настоящие нори Gold из красных водорослей для роллов, 226 руб.
+
+
+        Что выберете?'
+      role: assistant
+    - content: я имела в виду роллы которые как суши а не которые как ролл-цезарь
+      role: user
+    - content: к сожалению, таки роллов нет, может подойдут рыбные блюда?
+      role: assistant
+    - content: да, что есть рыбного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Консервы рыбные Доброфлот сайра натуральная, 245г, 275 руб.
+
+        2. METRO Chef Рыбные палочки из филе минтая в панировке замороженные, 1кг,
+        639 руб.
+
+        3. Паштет Setra лососевый, 80г, 215 руб.
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: хочу палочки из минтая и можно пиво
+      role: user
+  inquire_product: false
+  messages_uuid: ccca9ff1-8619-54ff-86b8-b1abbe7a469f
+- history:
+    - content: хочется есть, но нет настроения выбирать, предложи что-то
+      role: user
+    - content: Хочется больше сладкого, первых или вторых блюд, а может чего-то острого?
+      role: assistant
+    - content: наверно острого или необычного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1.Крылышки цыпленка-бройлера Петелинка острые для гриля охлажденные, ~1кг,
+        319
+
+        2. Котлеты Ближние горки для бургера из свинины охлажденные, 200г, 109
+
+        3. Перчики Ellenika острые фаршированные сливочным сыром, 250г - 429 руб.
+
+
+        Что-то из этого подойдет?'
+      role: assistant
+    - content: 'может перчики
+
+        а хотя нет, а есть роллы'
+      role: user
+    - content: 'Да, есть роллы. Вот варианты:
+
+        1. Ролл Рококо Tritato куриный с сыром, 239 руб.
+
+        2. Тесто Pa Food для спринг роллов, 550г, 549 руб.
+
+        3. Нори Настоящие нори Gold из красных водорослей для роллов, 226 руб.
+
+
+        Что выберете?'
+      role: assistant
+    - content: я имела в виду роллы которые как суши а не которые как ролл-цезарь
+      role: user
+    - content: к сожалению, таки роллов нет, может подойдут рыбные блюда?
+      role: assistant
+    - content: да, что есть рыбного
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Консервы рыбные Доброфлот сайра натуральная, 245г, 275 руб.
+
+        2. METRO Chef Рыбные палочки из филе минтая в панировке замороженные, 1кг,
+        639 руб.
+
+        3. Паштет Setra лососевый, 80г, 215 руб.
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: хочу палочки из минтая и можно пиво
+      role: user
+    - content: 'Вот варианты пива:
+
+        1. Балтика №7 Экспортное, 0.5л, 69 руб.
+
+        2. Heineken, 0.5л, 85 руб.
+
+        3. Жигулевское, 0.5л, 55 руб.
+
+
+        Какое пиво добавить к палочкам из минтая?'
+      role: assistant
+    - content: балтику
+      role: user
+    - content: Добавляю "METRO Chef Рыбные палочки из филе минтая в панировке замороженные,
+        1кг" и "Балтика №7 Экспортное, 0.5л" в корзину. Оформить заказ на доставку?
+      role: assistant
+    - content: да
+      role: user
+  inquire_product: false
+  messages_uuid: da915834-4e51-5c54-9df2-e2d577425bcf
+- history:
+    - content: Добавь пачку макарон, томатный соус и сыр пармезан.
+      role: user
+  inquire_product: false
+  messages_uuid: 0075d1ac-e498-5d98-ba31-62c151b047ac
+- history:
+    - content: Добавь пачку макарон, томатный соус и сыр пармезан.
+      role: user
+    - content: Какой вид макарон вам нужен - спирали, рожки, или спагетти?
+      role: assistant
+    - content: рожки
+      role: user
+    - content: 'Выберите: METRO Chef Макароны рожки рифленые, 3кг за 319 рублей или
+        Макароны Federici рожки рифленые, 500г за 60 рублей?'
+      role: assistant
+    - content: подешевле
+      role: user
+  inquire_product: false
+  messages_uuid: 21e22bb1-85fb-5b7a-bc56-c961ab735596
+- history:
+    - content: Добавь пачку макарон, томатный соус и сыр пармезан.
+      role: user
+    - content: Какой вид макарон вам нужен - спирали, рожки, или спагетти?
+      role: assistant
+    - content: рожки
+      role: user
+    - content: 'Выберите: METRO Chef Макароны рожки рифленые, 3кг за 319 рублей или
+        Макароны Federici рожки рифленые, 500г за 60 рублей?'
+      role: assistant
+    - content: подешевле
+      role: user
+    - content: "Добавляю Макароны Federici рожки рифленые, 500г за 60 рублей в корзину.\
+        \ \n\nКакой томатный соус вы предпочитаете - классический, с базиликом, или\
+        \ острый?"
+      role: assistant
+    - content: классику
+      role: user
+    - content: 'Выберите: Соус Mutti томатный для пиццы классический, 400г за 259
+        рублей или Соус Barilla Napoletana томатный с овощами, 400г за 239 рублей?'
+      role: assistant
+    - content: первый
+      role: user
+  inquire_product: false
+  messages_uuid: 4d2e8265-a7e9-51d4-978d-179ca35c4dd2
+- history:
+    - content: Добавь пачку макарон, томатный соус и сыр пармезан.
+      role: user
+    - content: Какой вид макарон вам нужен - спирали, рожки, или спагетти?
+      role: assistant
+    - content: рожки
+      role: user
+    - content: 'Выберите: METRO Chef Макароны рожки рифленые, 3кг за 319 рублей или
+        Макароны Federici рожки рифленые, 500г за 60 рублей?'
+      role: assistant
+    - content: подешевле
+      role: user
+    - content: "Добавляю Макароны Federici рожки рифленые, 500г за 60 рублей в корзину.\
+        \ \n\nКакой томатный соус вы предпочитаете - классический, с базиликом, или\
+        \ острый?"
+      role: assistant
+    - content: классику
+      role: user
+    - content: 'Выберите: Соус Mutti томатный для пиццы классический, 400г за 259
+        рублей или Соус Barilla Napoletana томатный с овощами, 400г за 239 рублей?'
+      role: assistant
+    - content: первый
+      role: user
+    - content: 'Добавляю Соус Mutti томатный для пиццы классический, 400г за 259 рублей
+        в корзину.
+
+
+        Теперь выберите пармезан: METRO Chef Пармезан тертый, 200г за 369 рублей или
+        Пармезан Parmigiano Reggiano, 150г за 499 рублей?'
+      role: assistant
+    - content: ну не тёртый, тогда наверно второй
+      role: user
+    - content: "Добавляю Пармезан Parmigiano Reggiano, 150г за 499 рублей в корзину.\n\
+        \nВаш заказ: \n- Макароны Federici рожки рифленые, 500г за 60 рублей\n- Соус\
+        \ Mutti томатный для пиццы классический, 400г за 259 рублей\n- Пармезан Parmigiano\
+        \ Reggiano, 150г за 499 рублей\n\nЖелаете что-то еще?"
+      role: assistant
+    - content: готово, оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: d43b23bb-5d9c-5648-a1d5-6f6122bb12b6
+- history:
+    - content: Найди куриное филе, яйца и молоко
+      role: user
+  inquire_product: false
+  messages_uuid: 0cbc78bd-090a-5759-9d44-9fe027e65039
+- history:
+    - content: Найди куриное филе, яйца и молоко
+      role: user
+    - content: 'Для куриного филе у нас есть следующие варианты:
+
+
+        1. Филе Куриное царство без кожи – 465 руб.
+
+        2. METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное, ~1кг – 390
+        руб.
+
+        3. Филе Рококо цыпленка-бройлера, 750г – 379 руб.'
+      role: assistant
+    - content: охлаждённое
+      role: user
+    - content: 'Добавляю  METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное,
+        ~1кг – 390 руб. Продолжим со следующим товаром, подойдёт ли такой вариант?
+
+
+        Яйцо куриное Праксис С1, 20шт – 199 руб.'
+      role: assistant
+    - content: яйца есть подешевле?
+      role: user
+  inquire_product: true
+  messages_uuid: 4e7aa166-6e7a-556c-980b-a4be5e79f510
+- history:
+    - content: Найди куриное филе, яйца и молоко
+      role: user
+    - content: 'Для куриного филе у нас есть следующие варианты:
+
+
+        1. Филе Куриное царство без кожи – 465 руб.
+
+        2. METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное, ~1кг – 390
+        руб.
+
+        3. Филе Рококо цыпленка-бройлера, 750г – 379 руб.'
+      role: assistant
+    - content: охлаждённое
+      role: user
+    - content: 'Добавляю  METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное,
+        ~1кг – 390 руб. Продолжим со следующим товаром, подойдёт ли такой вариант?
+
+
+        Яйцо куриное Праксис С1, 20шт – 199 руб.'
+      role: assistant
+    - content: яйца есть подешевле?
+      role: user
+    - content: 'Да, есть подешевле:
+
+
+        1. Яйцо куриное Окское столовое С1, 10шт – 110 руб.
+
+        2. Яйцо куриное Птицефабрика Роскар Экстра столовое C1, 10шт – 109 руб.
+
+        3. Яйцо куриное Окское столовое СО, 10шт – 125 руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: окское столовое
+      role: user
+    - content: 'Добавляю Яйцо куриное Окское столовое С1, 10шт – 110 руб. Теперь молоко,
+        какое предпочитаете: жирность и бренд?'
+      role: assistant
+    - content: жирность меньше двух бренд любой
+      role: user
+  inquire_product: false
+  messages_uuid: 1fbf0076-6757-5903-9d78-31f39bcab341
+- history:
+    - content: Найди куриное филе, яйца и молоко
+      role: user
+    - content: 'Для куриного филе у нас есть следующие варианты:
+
+
+        1. Филе Куриное царство без кожи – 465 руб.
+
+        2. METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное, ~1кг – 390
+        руб.
+
+        3. Филе Рококо цыпленка-бройлера, 750г – 379 руб.'
+      role: assistant
+    - content: охлаждённое
+      role: user
+    - content: 'Добавляю  METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное,
+        ~1кг – 390 руб. Продолжим со следующим товаром, подойдёт ли такой вариант?
+
+
+        Яйцо куриное Праксис С1, 20шт – 199 руб.'
+      role: assistant
+    - content: яйца есть подешевле?
+      role: user
+    - content: 'Да, есть подешевле:
+
+
+        1. Яйцо куриное Окское столовое С1, 10шт – 110 руб.
+
+        2. Яйцо куриное Птицефабрика Роскар Экстра столовое C1, 10шт – 109 руб.
+
+        3. Яйцо куриное Окское столовое СО, 10шт – 125 руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: окское столовое
+      role: user
+    - content: 'Добавляю Яйцо куриное Окское столовое С1, 10шт – 110 руб. Теперь молоко,
+        какое предпочитаете: жирность и бренд?'
+      role: assistant
+    - content: жирность меньше двух бренд любой
+      role: user
+    - content: 'Есть несколько вариантов:
+
+
+        1. Молоко Parmalat ультрапастеризованное 1.8%, 1л – 122 руб.
+
+        2. Молоко Parmalat Comfort безлактозное ультрапастеризованное 1.8%, 1л – 147
+        руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: за 122
+      role: user
+    - content: Добавляю Молоко Parmalat ультрапастеризованное 1.8%, 1л – 122 руб.
+        Всё правильно? Могу оформить заказ и доставку?
+      role: assistant
+    - content: напомни что в корзине
+      role: user
+  inquire_product: false
+  messages_uuid: 9bfe6a0c-1b88-5d60-bd82-4ae8d929105d
+- history:
+    - content: Найди куриное филе, яйца и молоко
+      role: user
+    - content: 'Для куриного филе у нас есть следующие варианты:
+
+
+        1. Филе Куриное царство без кожи – 465 руб.
+
+        2. METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное, ~1кг – 390
+        руб.
+
+        3. Филе Рококо цыпленка-бройлера, 750г – 379 руб.'
+      role: assistant
+    - content: охлаждённое
+      role: user
+    - content: 'Добавляю  METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное,
+        ~1кг – 390 руб. Продолжим со следующим товаром, подойдёт ли такой вариант?
+
+
+        Яйцо куриное Праксис С1, 20шт – 199 руб.'
+      role: assistant
+    - content: яйца есть подешевле?
+      role: user
+    - content: 'Да, есть подешевле:
+
+
+        1. Яйцо куриное Окское столовое С1, 10шт – 110 руб.
+
+        2. Яйцо куриное Птицефабрика Роскар Экстра столовое C1, 10шт – 109 руб.
+
+        3. Яйцо куриное Окское столовое СО, 10шт – 125 руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: окское столовое
+      role: user
+    - content: 'Добавляю Яйцо куриное Окское столовое С1, 10шт – 110 руб. Теперь молоко,
+        какое предпочитаете: жирность и бренд?'
+      role: assistant
+    - content: жирность меньше двух бренд любой
+      role: user
+    - content: 'Есть несколько вариантов:
+
+
+        1. Молоко Parmalat ультрапастеризованное 1.8%, 1л – 122 руб.
+
+        2. Молоко Parmalat Comfort безлактозное ультрапастеризованное 1.8%, 1л – 147
+        руб.
+
+
+        Какой вариант выбрать?'
+      role: assistant
+    - content: за 122
+      role: user
+    - content: Добавляю Молоко Parmalat ультрапастеризованное 1.8%, 1л – 122 руб.
+        Всё правильно? Могу оформить заказ и доставку?
+      role: assistant
+    - content: напомни что в корзине
+      role: user
+    - content: 'В вашей корзине:
+
+
+        1. METRO Chef Филе грудки цыпленка-бройлера без кожи охлажденное, ~1кг – 390
+        руб.
+
+        2. Яйцо куриное Окское столовое С1, 10шт – 110 руб.
+
+        3. Молоко Parmalat ультрапастеризованное 1.8%, 1л – 122 руб.
+
+
+        Всё верно? Оформляю заказ и доставку?'
+      role: assistant
+    - content: да оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 1df7d068-bf5d-5f89-8d43-4c7302b03108
+- history:
+    - content: хочу что-то к чаю
+      role: user
+    - content: Печенье, конфеты или что-то другое?
+      role: assistant
+    - content: конфеты и фрукты наверное
+      role: user
+    - content: Шоколадные или жевательные конфеты?
+      role: assistant
+    - content: шоколадные, лучше ассорти
+      role: user
+    - content: "Выберите: \n1. \"Конфеты Reber Christmas tree Моцарт шоколадные ассорти,\
+        \ 240г\" - 1599 руб.\n2. \"Набор шоколадных конфет Merci Подарок, 200г\" -\
+        \ 349 руб.\n3. \"Конфеты Reber Mozart Mirabell шоколадные ассорти, 600г\"\
+        \ - 2599 руб."
+      role: assistant
+    - content: мерси люблю давай их
+      role: user
+  inquire_product: false
+  messages_uuid: 302f7259-a1c2-5a0f-bca6-f035f2a7047a
+- history:
+    - content: хочу что-то к чаю
+      role: user
+    - content: Печенье, конфеты или что-то другое?
+      role: assistant
+    - content: конфеты и фрукты наверное
+      role: user
+    - content: Шоколадные или жевательные конфеты?
+      role: assistant
+    - content: шоколадные, лучше ассорти
+      role: user
+    - content: "Выберите: \n1. \"Конфеты Reber Christmas tree Моцарт шоколадные ассорти,\
+        \ 240г\" - 1599 руб.\n2. \"Набор шоколадных конфет Merci Подарок, 200г\" -\
+        \ 349 руб.\n3. \"Конфеты Reber Mozart Mirabell шоколадные ассорти, 600г\"\
+        \ - 2599 руб."
+      role: assistant
+    - content: мерси люблю давай их
+      role: user
+    - content: 'Добавлено в корзину: "Набор шоколадных конфет Merci Подарок, 200г"
+        за 349 руб. Перейдём к фруктам. Предпочитаете яблоки, бананы или что-то ещё?'
+      role: assistant
+    - content: Можно бананы, а вообще может есть что-то более экзотическое?
+      role: user
+    - content: Манго, ананас или киви подойдут?
+      role: assistant
+    - content: да давай бананы и кивы
+      role: user
+    - content: Хорошо, добавлю в корзину бананы и киви. Сколько штук каждого?
+      role: assistant
+    - content: ну бананов 4 и киви столько же, а какие цены там?
+      feature: price_inquiry
+      role: user
+    - content: Бананы - 79 руб/кг, киви - 149 руб/кг. Добавить в корзину?
+      role: assistant
+    - content: давай каждых по килограмму и напомни, что в корзине сейчас
+      feature: track_order
+      role: user
+    - content: 'В корзине:
+
+        1. "Набор шоколадных конфет Merci Подарок, 200г" - 349 руб.
+
+        2. Бананы, 1 кг - 79 руб.
+
+        3. Киви, 1 кг - 149 руб.
+
+
+        Перейти к оформлению заказа?'
+      role: assistant
+    - content: да оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 29646977-a4a5-53db-8814-409fd08004bf
+- history:
+    - content: найди мне продукты для пикника
+      role: user
+    - content: Сколько человек будет на пикнике?
+      role: assistant
+    - content: пять
+      role: user
+    - content: 'Какие продукты вам нужны: посуда, еда, напитки?'
+      role: assistant
+    - content: закуски какие-нибудь
+      role: user
+    - content: 'Вот несколько вариантов:
+
+        1. Чипсы Mr Potato Барбекю, 40г – 90 руб.
+
+        2. Крекер Tuc Пицца, 100г – 61 руб.
+
+        3. Палочки Деревенские Гренки с чесноком, 100г – 90 руб.
+
+
+        Добавить что-то из этого в корзину?'
+      role: assistant
+    - content: чипсы и крекер а ещё фруктов бы
+      role: user
+    - content: 'Из фруктов у нас есть:
+
+        1. Яблоки Гала, 1 кг – 99 руб.
+
+        2. Бананы, 1 кг – 79 руб.
+
+        3. Апельсины, 1 кг – 69 руб.
+
+
+        Что-то конкретное хотели бы добавить в корзину?'
+      role: assistant
+    - content: яблок 2 кг
+      role: user
+    - content: Отлично! Чипсы Mr Potato Барбекю, 40г – 90 руб., крекер Tuc Пицца,
+        100г – 61 руб. и Яблоки Гала, 2 кг – 198 руб. Все добавлено в корзину. Что-то
+        еще нужно?
+      role: assistant
+    - content: хочу ещё сыр с дырками, забыл как называется
+      role: user
+    - content: 'Вот несколько вариантов сыра с дырками:
+
+        1. Сыр Schonfeld Маасдам полутвердый кусок 45%, 200г – 249 руб.
+
+        2. Сыр Le Superbe Switzerland Swiss твердый 49%, 180г – 379 руб.
+
+
+        Какой из них выберете?'
+      role: assistant
+    - content: точно, Маасдам, его хотел
+      role: user
+    - content: Отлично! Добавлен сыр Schonfeld Маасдам полутвердый кусок 45%, 200г
+        – 249 руб. в корзину. Готово к оформлению заказа. Будете продолжать покупки
+        или перейдем к оформлению?
+      role: assistant
+    - content: оформи заказ
+      role: user
+  inquire_product: false
+  messages_uuid: 7290af05-01ba-5a04-a551-0ac2ed1d73e2
+- history:
+    - content: Есть шоколад с низким гликемическим индексом?
+      role: user
+  inquire_product: true
+  messages_uuid: 4157a039-1979-55a0-987d-7414bf9d0685
+- history:
+    - content: подберёшь мне перекус я на диете номер пять?
+      role: user
+  inquire_product: false
+  messages_uuid: 5943590a-a388-5a3b-a2a9-f0f2b0d40099
+- history:
+    - content: подберёшь мне перекус я на диете номер пять?
+      role: user
+    - content: Какой тип перекуса вам нужен - семечки, батончик протеиновый или фруктово-ореховый?
+      role: assistant
+    - content: можно батончик или что-то ещё
+      role: user
+  inquire_product: false
+  messages_uuid: 81f41202-e304-5cb3-bd00-cd3c28f6492a
+- history:
+    - content: подберёшь мне перекус я на диете номер пять?
+      role: user
+    - content: Какой тип перекуса вам нужен - семечки, батончик протеиновый или фруктово-ореховый?
+      role: assistant
+    - content: можно батончик или что-то ещё
+      role: user
+    - content: 'Из батончиков у нас есть несколько вариантов:
+
+
+        1. Батончик протеиновый Fit Kit Wellnut арахис-карамель в глазури без сахара,
+        45г - 100 рублей.
+
+        2. Батончик протеиновый Bombbar Crunch Ваниль-Чизкейк в глазури без сахара,
+        50г - 88 рублей.
+
+        3. Батончик протеиновый Леовит Champ! карамельный, 45г - 60 рублей.
+
+
+        Какой из них вас заинтересовал?'
+      role: assistant
+    - content: вообще хочу батончик со стевией
+      role: user
+  inquire_product: false
+  messages_uuid: 53cdd286-5102-570a-94c7-fc9483e7f14f
+- history:
+    - content: есть органические овощи?
+      role: user
+  inquire_product: false
+  messages_uuid: cc00dd55-b0a6-574f-a909-48154fbf6d2d
+- history:
+    - content: есть органические овощи?
+      role: user
+    - content: Какие овощи вас интересуют - помидоры, картофель или другие?
+      role: assistant
+    - content: помидоры и огурцы
+      role: user
+    - content: 'Вот что у нас есть из органических:
+
+
+        1. Томаты ЭКО-культура черри сливка, 250г - 149 руб.
+
+        2. Томаты ЭКО-культура Ардилес коктейльные на ветке, 500г - 299 руб.
+
+        3. Огурцы среднеплодные - 36 руб.
+
+
+        Что-то из этого подходит?'
+      role: assistant
+    - content: 1 и 3
+      role: user
+  inquire_product: false
+  messages_uuid: c226d592-bf0e-50ca-a4f3-1b9c65904e5f
+- history:
+    - content: есть что-то из кошерного питания?
+      role: user
+  inquire_product: false
+  messages_uuid: d84b3389-a26f-5bb9-99fb-f00f74ffa950
+- history:
+    - content: есть что-то для вегетарианцев?
+      role: user
+  inquire_product: false
+  messages_uuid: dded40d0-b328-510a-a8f7-56f0bda9310a
+- history:
+    - content: есть что-то для вегетарианцев?
+      role: user
+    - content: Какой продукт вас интересует - соевая бумага для суши, растительные
+        котлеты, или нут?
+      role: assistant
+    - content: да, котлеты например
+      role: user
+  inquire_product: false
+  messages_uuid: 22bae458-7f80-5b6e-be9a-35fc514e8ffb
+- history:
+    - content: есть что-то постное?
+      role: user
+  inquire_product: false
+  messages_uuid: 644d6123-f788-5af3-862e-dba778fea3b6
+- history:
+    - content: есть что-то постное?
+      role: user
+    - content: 'Для вас есть несколько постных продуктов:
+
+        1. Печенье Юбилейное постное, 268г - 80 руб.
+
+        2. Хлеб Рижский хлеб Деревенский бездрожжевой постный, 220г - 79 руб.
+
+        3. Вареники Сибирская коллекция с картофелем и зеленью постные, 700г - 169
+        руб.
+
+
+        Добавить что-то в корзину?'
+      role: assistant
+    - content: о, вареники подойдут
+      role: user
+  inquire_product: false
+  messages_uuid: efea13e2-047e-5ba9-8eea-d84575bf2cc8
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+  inquire_product: false
+  messages_uuid: 4a39c14b-2384-57b1-85e5-efa7e5a5ad12
+- history:
+    - content: нужен набор инструментов для мелкого ремонта по дому
+      role: user
+  inquire_product: false
+  messages_uuid: 4b8db275-98d8-5be6-a7d7-16dd6e66a4ed
+- history:
+    - content: нужен набор инструментов для мелкого ремонта по дому
+      role: user
+    - content: Какие инструменты вам нужны – отвертки, ключи, плоскогубцы?
+      role: assistant
+    - content: вот да это всё в наборе
+      role: user
+  inquire_product: false
+  messages_uuid: 917a6b86-5668-591b-afbc-cb0f9189cc78
+- history:
+    - content: нужен набор инструментов для мелкого ремонта по дому
+      role: user
+    - content: Какие инструменты вам нужны – отвертки, ключи, плоскогубцы?
+      role: assistant
+    - content: вот да это всё в наборе
+      role: user
+    - content: Есть набор инструментов Вихрь 1/2 1/4 CRV, 76 предметов за 14389 рублей.
+        Подойдет?
+      role: assistant
+    - content: что-то многовато и дорого, есть что-то более базовое, и может в пределах
+        3 тысяч?
+      role: user
+  inquire_product: false
+  messages_uuid: 204d7b1b-16a2-53c8-9ee5-3654ae6cbeea
+- history:
+    - content: найдите красивые бумажные салфетки для сервировки
+      role: user
+  inquire_product: false
+  messages_uuid: 8e3d44f0-fdbf-567e-bdb8-3b788f72492d
+- history:
+    - content: найдите красивые бумажные салфетки для сервировки
+      role: user
+    - content: Какой стиль предпочтителен - классический или современный?
+      role: assistant
+    - content: посовременнее что-то
+      role: user
+  inquire_product: false
+  messages_uuid: d102dc7e-0654-59a3-a783-587c89d6adb4
+- history:
+    - content: нужен дорожный набор для бритья в командировку
+      role: user
+  inquire_product: false
+  messages_uuid: 23f75ccf-7130-5ee1-b6f3-659c4bfc51a6
+- history:
+    - content: нужен дорожный набор для бритья в командировку
+      role: user
+    - content: Станок и пена или что-то еще?
+      role: assistant
+    - content: ну да как-то так
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Gillette Fusion: станок + пена, 899 руб.
+
+        2. Gillette Mach3: станок + пена, 699 руб.
+
+        3. BIC Hybrid 5 Flex: станок + кассеты, 699 руб.
+
+
+        Какой выберете?'
+      role: assistant
+    - content: вот первый давай
+      role: user
+  inquire_product: false
+  messages_uuid: 819d774f-3de0-59a1-920e-435dca071954
+- history:
+    - content: нужен дорожный набор для бритья в командировку
+      role: user
+    - content: Станок и пена или что-то еще?
+      role: assistant
+    - content: ну да как-то так
+      role: user
+    - content: 'Вот несколько вариантов:
+
+
+        1. Gillette Fusion: станок + пена, 899 руб.
+
+        2. Gillette Mach3: станок + пена, 699 руб.
+
+        3. BIC Hybrid 5 Flex: станок + кассеты, 699 руб.
+
+
+        Какой выберете?'
+      role: assistant
+    - content: вот первый давай
+      role: user
+    - content: 'Добавляю Gillette Fusion: станок + пена за 899 руб. в корзину. Хотите
+        оформить заказ?'
+      role: assistant
+    - content: подожди, а утюжка маленького нет случайно
+      role: user
+  inquire_product: false
+  messages_uuid: 9103fdca-bc85-50f5-9093-ddd2dcc78b9d
+- history:
+    - content: нужна шпаклёвка заделать трещину в стене
+      role: user
+  inquire_product: false
+  messages_uuid: f114192f-cf8c-577f-9b30-cf5ea6838608
+- history:
+    - content: нужна шпаклёвка заделать трещину в стене
+      role: user
+    - content: Какой объем шпаклевки вам нужен?
+      role: assistant
+    - content: ну килограмм наверно не знаю трещина небольшая 5 см
+      role: user
+  inquire_product: false
+  messages_uuid: c14ee598-5428-5205-8579-4f665995dfad
+- history:
+    - content: нужна шпаклёвка заделать трещину в стене
+      role: user
+    - content: Какой объем шпаклевки вам нужен?
+      role: assistant
+    - content: ну килограмм наверно не знаю трещина небольшая 5 см
+      role: user
+    - content: Предлагаю шпаклевку "Knauf Легкая шпаклевка", 1 кг за 99 рублей. Желаете
+        добавить в корзину?
+      role: assistant
+    - content: да, давай а что к ней ещё кисточку может
+      role: user
+    - content: Для шпаклевки лучше использовать шпатель. Вам нужен шпатель?
+      role: assistant
+    - content: да предложи варианты плиз
+      role: user
+  inquire_product: false
+  messages_uuid: 1491a4d4-6f09-5b63-befa-012fe44825fd
+- history:
+    - content: давай закажем всё для шашлыков
+      role: user
+  inquire_product: false
+  messages_uuid: 4a39c14b-2384-57b1-85e5-efa7e5a5ad12
+- history:
+    - content: Найди томатный сок и средство для мытья окон
+      role: user
+  inquire_product: false
+  messages_uuid: 531f5f07-bd43-5214-b8c2-8b025724c44e
+- history:
+    - content: Найди томатный сок и средство для мытья окон
+      role: user
+    - content: 'Томатный сок:
+
+        1. Сок Добрый Томат, 1л - 109 руб.
+
+        2. Сок Santal Томат, 1л - 119 руб.
+
+        3. Сок J7 томат, 970мл - 138 руб.
+
+
+        Средство для мытья окон:
+
+        Какое средство предпочитаете: спрей или концентрат?'
+      role: assistant
+    - content: давай сок добрый а для мытья окон спрей
+      role: user
+  inquire_product: false
+  messages_uuid: 93b4d6a9-48a0-5d7e-bc40-e16178ffe7d0
